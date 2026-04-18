@@ -1,0 +1,2 @@
+user enters data - clicks enter
+todoForm.addEventListener invokes - calls addTodo();
