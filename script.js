@@ -4,7 +4,6 @@ const todoListUL=document.getElementById("todo-list");
 
 const allTodos=[];
 
-
 todoForm.addEventListener("submit",(e)=>{
     e.preventDefault();
     addTodos();
