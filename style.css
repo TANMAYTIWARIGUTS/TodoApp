@@ -1,9 +1,9 @@
 :root{
-  --background: #000000;
-  --primary-color: #0A0A0A;
-  --secondary-color: #414141;
-  --accent-color: #00FF9C;
-  --text-color: #F0F0F0;
+  --background: #0A0A0A;
+  --primary-color: #141414;
+  --secondary-color: #464646;
+  --accent-color: #E11D48;
+  --text-color: #F5F5F5;
 }
  
 *{
@@ -28,7 +28,7 @@ h1{
     margin-bottom:20px;
     color: var(--accent-color);
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: 1000;
     text-align: center;
     font-size: 3rem;
 }
